@@ -17,3 +17,5 @@ http://jlord.us/git-it/challenges-zhtw/commit_to_it.html  git說明
 (8)刪掉github上的分支
 
 git checkout --.空白 返回原本的檔
+
+git fetch "合夥人的url" 檢查版本更新
