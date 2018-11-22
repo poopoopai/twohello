@@ -15,3 +15,5 @@ http://jlord.us/git-it/challenges-zhtw/commit_to_it.html  git說明
 (7)然後在pr momo到master
 
 (8)刪掉github上的分支
+
+git checkout --.空白 返回原本的檔
