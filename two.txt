@@ -10,7 +10,7 @@ http://jlord.us/git-it/challenges-zhtw/commit_to_it.html  git說明
 
 (5)git commit -am "大該說明更改的內容"
 
-(6)-(1)git push -u origin momo   在momo這支branch發送push (6)-(2)git push -u "合夥人的url" master   合夥人的url發送push
+(6)-(1)git push -u origin momo   在momo這支branch發送push (6)-(2)git push  "合夥人的url" master   合夥人的url發送push
 
 (7)然後在pr momo到master
 
