@@ -19,3 +19,10 @@ http://jlord.us/git-it/challenges-zhtw/commit_to_it.html  git說明
 git checkout --.空白 返回原本的檔
 
 git fetch "合夥人的url" 檢查版本更新
+
+Pull 其實等於 Fetch 加上 Merge
+
+git pull --rebase =  Pull + Rebase
+
+假設跟合夥人合作開發步驟: "下載別人(合夥人)專案(clone)"->"修改更新檔案內容(add)"->"先檢查檔案新版本或是舊版本(fetch)"
+->"提交修改檔案(commit)"->"上傳到遠端git(push)"->"下載最新檔案(pull)"
