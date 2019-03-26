@@ -1,0 +1,19 @@
+https://hackmd.io/s/HkceMFq-z
+
+sudo -s
+
+i 啟動vim文字編輯
+
+esc 離開vim文字編輯
+
+:wq 存完離開
+
+!q 離開
+
+ln -s /usr/share/phpmyadmin /var/www/html/phpmyadmin 連結file
+
+a2enmod rewrite 可以連laravel路由
+
+ create database blog;
+
+ps -x linux
